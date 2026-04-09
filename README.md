@@ -1,4 +1,4 @@
-## Hola soy Hit Roo 👋
+## Hola muy pronto tendremos algo por aquí 👋
 
 <!--
 **HitRooDev/HitRooDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
