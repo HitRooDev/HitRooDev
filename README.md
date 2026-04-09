@@ -1,4 +1,4 @@
-## Hola muy pronto tendremos algo por aquí 👋
+## Hola muy pronto tendremos algo por aquí, esperalo muy pronto 👋
 
 <!--
 **HitRooDev/HitRooDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
